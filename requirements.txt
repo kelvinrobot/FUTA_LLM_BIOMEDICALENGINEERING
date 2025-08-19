@@ -1,0 +1,11 @@
+autogen
+transformers
+torch
+faiss-cpu
+sentence-transformers
+langchain
+python-dotenv
+langchain-community
+fastapi 
+uvicorn 
+joblib
